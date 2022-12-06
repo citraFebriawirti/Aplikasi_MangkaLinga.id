@@ -1,0 +1,1 @@
+# Aplikasi_MangkaLinga.id
