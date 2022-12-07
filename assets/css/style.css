@@ -41,11 +41,11 @@
     font-family: Viga;
 }
 .btn-cool-blues {
-    background: #03989E;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #ecca5a, #03989E);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f0d377, #047f83); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #03989E; 
+    background: -webkit-linear-gradient(to right, #ecca5a, #03989E);  
+    background: linear-gradient(to right, #F0BE15, #047f83);
     color: #fff;
-    border: 3px solid #eee;
+    border: 1px solid #eee;
     border-radius: 9px;
    
 }
