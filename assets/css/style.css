@@ -28,19 +28,27 @@
 
 .header span {
     font-weight: bold;
-    color: #407ed4;
+    color: #03989E;
 }
 
 .header p {
-    font-size: 20px;
-    color: #acacac;
+    font-size: 18px;
+    color: #747070;
     font-weight: 200;
 }
 
 .header a {
     font-family: Viga;
 }
-
+.btn-cool-blues {
+    background: #03989E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ecca5a, #03989E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f0d377, #047f83); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+    border: 3px solid #eee;
+    border-radius: 9px;
+   
+}
 .header img {
     height: 500px;
     width: 800px;
